@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/chirpy-starter'
+baseurl: '/blog'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -29,13 +29,13 @@ description: >-                        # used by seo meta and the atom feed
   Tales Mariano's Blog, where he organize his posts and thoughts.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://TalesMariano.github.io/chirpy-starter'
+url: 'https://TalesMariano.github.io/blog'
 
 github:
   username: TalesMariano            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: TalesMar_            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,11 +44,11 @@ social:
   email: TalesMariano1@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/TalesMar_      # change to your twitter homepage
+    - https://github.com/TalesMariano      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/username
+    - http://linkedin.com/in/talesmariano/
 
 google_site_verification:               # fill in to your verification string
 
@@ -100,11 +100,11 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: 'TalesMariano/blog'            # <gh-username>/<repo>
-    repo_id: 'R_kgDOG77aMw'
+    repo_id: 'R_kgDOG7ljhw'
     category: 'Announcements'
-    category_id: 'DIC_kwDOG77aM84CN8H_'
+    category_id: 'DIC_kwDOG7ljh84CN-q3'
     mapping:          # optional, default to 'pathname'
-    input_position:   # optional, default to 'bottom'
+    input_position:top   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
