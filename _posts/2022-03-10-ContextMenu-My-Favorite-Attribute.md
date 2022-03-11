@@ -1,8 +1,8 @@
 ---
 title: ContextMenu My Favorite Attribute
 date: 2022-03-10
-categories: [Gamedev,Unity]
-tags: [Tips]
+categories: [Gamedev, Unity]
+tags: [tips]
 ---
 
 ## ContextMenu, My Favorite Attribute
